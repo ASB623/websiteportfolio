@@ -2,7 +2,7 @@ Portfolio Website
 
 A clean, modern, single-page personal portfolio built with plain HTML, JavaScript, and Tailwind CSS. Fully responsive, no build step, no dependencies to install.
 
-Live site: https://yourusername.github.io/my-portfolio
+Live site: https://asb623.github.io/websiteportfolio/
 
 Features
   Sticky navbar with a mobile hamburger menu
